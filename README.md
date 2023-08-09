@@ -1,14 +1,44 @@
-<h1 align="center">Hi 👋, I'm Rajeev Tripathi and I ❤️ Data Analytics</h1>
+![](https://komarev.com/ghpvc/?username=DVNSHX&color=36b812)<br>
+![](https://img.shields.io/github/followers/DVNSHX?style=social)<br>
+![](https://img.shields.io/github/stars/DVNSHX?style=social)<br>
+
+### Hi, my name is Rajeev Tripathi👋 and I ❤️ Data Analytics
+
+#### Socials:
+<a href='https://www.linkedin.com/in/rajeev-tripathi-11bb60199/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
+
+**Field of interests**: Data Analytics, Business Analytics, Data Science, Business Intelligence, Marketing Analytics
+
+<!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+
+#### Skills 🛠️:
+<a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=900190&color=900190'/></a>
+<a href='' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=DB0063&color=DB0063'/></a>
+<a href='' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-100000?style=for-the-badge&logo=Tableau&logoColor=FFFFFF&labelColor=FFE001&color=FFE001'/></a>
+<a href='' target="_blank"><img alt='Power BI' src='https://img.shields.io/badge/PowerBI-100000?style=for-the-badge&logo=Power BI&logoColor=FFFFFF&labelColor=0BD77C&color=0BD77C'/></a>
+<a href='' target="_blank"><img alt='Googlesheets' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Googlesheets&logoColor=FFFFFF&labelColor=017BED&color=017BED'/></a>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+### Work experience 👔
+| Job Position                      | Company            | Project                                        | Work Period                |
+| --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
+| Data Analyst| Cognizant          | SBI Credit cards- GE (General Electric)                        | 01.08.2022 — Present    |
+| Programmer Analyst                      | Cognizant           | Oxford University Press (OUP) | 01.08.2021 — 01.07.2022    |
 
-- 📫 How to reach me **rajeev.rt42@gmail.com**
+### Education 🎓
+- **Bachelor's degree** @ KIET Group of Institutions     
+CGPA:8.49/10
+  - Relevant Course:  Applied Mathematics, Programming in C, , Cloud Computing,Machine Learning, and Statistics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeev-tripathi729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-tripathi729/" height="30" width="40" /></a>
-</p>
+### Projects 🐾
+- Will Add Soon!
+<!--- - [MilkShakeLang](https://github.com/dayyass/milkshakelang) - The MilkShake Programming language -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Blogs 🗣
+- Will Add Soon!
+<!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
+
+### Certifications 📜
+
+- [Introduction to Statistics](coursera.org/verify/KATESQ4F3SKA) @ Coursera
+- [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
