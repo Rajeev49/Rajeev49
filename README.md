@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
-<h3 align="center">I look forward to make effective use of data , perform analysis, derive insights to leverage the speed of decision making.</h3>
+<h1 align="center">Hi 👋, I'm Rajeev Tripathi and I ❤️ Data Analytics</h1>
+
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 
