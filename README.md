@@ -30,10 +30,6 @@
 CGPA:8.49/10
   - Relevant Course:  Applied Mathematics, Programming in C, , Cloud Computing,Machine Learning, and Statistics.
 
-### Projects 🐾
-- Will Add Soon!
-<!--- - [MilkShakeLang](https://github.com/dayyass/milkshakelang) - The MilkShake Programming language -->
-
 ### Blogs 🗣
 - Will Add Soon!
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
