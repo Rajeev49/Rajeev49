@@ -35,6 +35,5 @@ CGPA:8.49/10
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
 ### Certifications 📜
-
-- [Introduction to Statistics](coursera.org/verify/KATESQ4F3SKA) @ Coursera
 - [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
+- [Introduction to Statistics](coursera.org/verify/KATESQ4F3SKA) @ Coursera
