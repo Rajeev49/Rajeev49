@@ -34,6 +34,9 @@ CGPA:8.49/10
 - Will Add Soon!
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
+### Project
+- [Bank's Customer Baseline](https://public.tableau.com/app/profile/rajeev.tripathi/viz/BanksCustomerBaseline_16928547166310/Story1) @ TableauPublic
+
 ### Certifications 📜
 - [Google Data Analytics](https://coursera.org/share/cef6271e393eea2238670086d8c03237) @ Coursera
 - [Business Analytics for Decision Making](https://coursera.org/share/1d2bfc1a47daa8054a34c5189b9e06be) @ Coursera
