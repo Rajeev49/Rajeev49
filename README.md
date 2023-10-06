@@ -36,4 +36,4 @@ CGPA:8.49/10
 
 ### Certifications 📜
 - [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
-- [Introduction to Statistics](https://www.coursera.org/account/accomplishments/verify/KD62MYD6A7QB) @ Coursera
+- [Introduction to Statistics](https://coursera.org/share/6982c3d93ca203bc95e88582a2129a3a) @ Coursera
