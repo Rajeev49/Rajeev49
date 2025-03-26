@@ -20,10 +20,10 @@
 
 
 ### Work experience 👔
-| Job Position                      | Company            | Project                                        | Work Period                |
+| Job Position                      | Company            | Project                                      | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
-| Business Intelligence Developer| Cognizant             | SBI Credit cards- GE (General Electric)      | 01.08.2022 — Present       |
-| Data Visualization Specialist     | Cognizant          | Oxford University Press (OUP)                | 01.08.2021 — 01.07.2022    |
+| Business Intelligence Developer   | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2022 — Present       |
+| Reporting Analyst                 | Cognizant          | Oxford University Press (OUP)                | 01.08.2021 — 01.07.2022    |
 
 ### Education 🎓
 - **Bachelor's degree** @ KIET Group of Institutions     
