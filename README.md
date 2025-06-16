@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/DVNSHX?style=social)<br>
 ![](https://img.shields.io/github/stars/DVNSHX?style=social)<br>
 
-### Hi, my name is Rajeev Tripathi👋 and I ❤️ Data Analytics
+### Hi, my name is Rajeev Tripathi👋 and I ❤️ Data 
 
 #### Socials:
 <a href='https://www.linkedin.com/in/rajeev-tripathi-11bb60199/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
@@ -38,7 +38,7 @@ CGPA:8.49/10
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
 ### Certifications 📜
-- [Azure Fundamentals](https://learn.microsoft.com/en-us/users/tripathirajeevcognizant-3112/credentials/d5d2f3892b749d0b?ref=https%3A%2F%2Fwww.linkedin.com%2F) @Microsoft
+- [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/tripathirajeevcognizant-3112/credentials/d5d2f3892b749d0b?ref=https%3A%2F%2Fwww.linkedin.com%2F) @Microsoft
 - [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/tripathirajeevcognizant-3112/credentials/145057fbdbd3904a?ref=https%3A%2F%2Fwww.linkedin.com%2F) @Microsoft
 - [Azure Fundamentals](https://www.credly.com/badges/9ad9862e-55de-4f1a-a7e2-8de98e414731) @Microsoft
 - [Google Data Analytics](https://coursera.org/share/cef6271e393eea2238670086d8c03237) @ Coursera
