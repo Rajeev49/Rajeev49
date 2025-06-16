@@ -22,8 +22,8 @@
 ### Work experience 👔
 | Job Position                      | Company            | Project                                      | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
-| Business Intelligence Analyst     | Cognizant          | Global Security Operations Cente             | 01.08.2022 — Present       |
-| Reporting Analyst                 | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2021 — 01.07.2022    |
+| Business Intelligence Analyst     | Cognizant          | Global Security Operations Centre            | 01.08.2023 — Present       |
+| Reporting Analyst                 | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2021 — 01.07.2023    |
 
 ### Education 🎓
 - **Master's degree** @ University of Cincinnati    
