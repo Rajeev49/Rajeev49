@@ -7,7 +7,7 @@
 #### Socials:
 <a href='https://www.linkedin.com/in/rajeev-tripathi-11bb60199/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
 
-**Field of interests**: Data Analytics, Business Analytics, Data Science, Business Intelligence, Marketing Analytics
+**Field of interests**: Data Analytics, Data Science, Business Intelligence, Marketing Analytics
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
@@ -22,10 +22,12 @@
 ### Work experience 👔
 | Job Position                      | Company            | Project                                      | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
-| Business Intelligence Developer   | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2022 — Present       |
-| Reporting Analyst                 | Cognizant          | Oxford University Press (OUP)                | 01.08.2021 — 01.07.2022    |
+| Business Intelligence Analyst     | Cognizant          | Global Security Operations Cente             | 01.08.2022 — Present       |
+| Reporting Analyst                 | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2021 — 01.07.2022    |
 
 ### Education 🎓
+- **Master's degree** @ University of Cincinnati    
+CGPA:8.49/10
 - **Bachelor's degree** @ KIET Group of Institutions     
 CGPA:8.49/10
   - Relevant Course:  Applied Mathematics, Programming in C, , Cloud Computing,Machine Learning, and Statistics.
