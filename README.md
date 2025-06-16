@@ -28,18 +28,19 @@
 ### Education 🎓
 - **Master's degree** @ University of Cincinnati    
 CGPA:8.49/10
+  - Relevant Course:   Machine Leanring, Data Warehousing, Visual Analytics, Data Mining, Relational Database, Supply Chain
 - **Bachelor's degree** @ KIET Group of Institutions     
 CGPA:8.49/10
-  - Relevant Course:  Applied Mathematics, Programming in C, , Cloud Computing,Machine Learning, and Statistics.
+  - Relevant Course:  Applied Mathematics, Programming in C,  Cloud Computing,Machine Learning, and Statistics.
 
 ### Blogs 🗣
 - Will Add Soon!
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
-### Project
-- [Bank's Customer Baseline](https://public.tableau.com/app/profile/rajeev.tripathi/viz/BanksCustomerBaseline_16928547166310/Story1) @ TableauPublic
-
 ### Certifications 📜
+- [Azure Fundamentals](https://learn.microsoft.com/en-us/users/tripathirajeevcognizant-3112/credentials/d5d2f3892b749d0b?ref=https%3A%2F%2Fwww.linkedin.com%2F) @Microsoft
+- [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/tripathirajeevcognizant-3112/credentials/145057fbdbd3904a?ref=https%3A%2F%2Fwww.linkedin.com%2F) @Microsoft
+- [Azure Fundamentals](https://www.credly.com/badges/9ad9862e-55de-4f1a-a7e2-8de98e414731) @Microsoft
 - [Google Data Analytics](https://coursera.org/share/cef6271e393eea2238670086d8c03237) @ Coursera
 - [Business Analytics for Decision Making](https://coursera.org/share/1d2bfc1a47daa8054a34c5189b9e06be) @ Coursera
 - [Python for Everybody](https://coursera.org/share/52ebb4853dea03cfbc760dc7d9a581df) @ Coursera
