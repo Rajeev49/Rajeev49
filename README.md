@@ -27,10 +27,10 @@
 
 ### Education 🎓
 - **Master's degree** @ University of Cincinnati    
-CGPA:8.49/10
+GPA: 3.95/4
   - Relevant Course:   Machine Leanring, Data Warehousing, Visual Analytics, Data Mining, Relational Database, Supply Chain
 - **Bachelor's degree** @ KIET Group of Institutions     
-CGPA:8.49/10
+GPA: 3.5/4
   - Relevant Course:  Applied Mathematics, Programming in C,  Cloud Computing,Machine Learning, and Statistics.
 
 ### Blogs 🗣
