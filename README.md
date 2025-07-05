@@ -44,8 +44,9 @@ Python, SQL, PySpark, and real-world data project architecture
 <a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=900190&color=900190'/></a>
 <a href='' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=DB0063&color=DB0063'/></a>
 <a href='' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-100000?style=for-the-badge&logo=Tableau&logoColor=FFFFFF&labelColor=FFE001&color=FFE001'/></a>
-<a href='' target="_blank"><img alt='Power BI' src='https://img.shields.io/badge/PowerBI-100000?style=for-the-badge&logo=Power BI&logoColor=FFFFFF&labelColor=0BD77C&color=0BD77C'/></a>
-<a href='' target="_blank"><img alt='Googlesheets' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Googlesheets&logoColor=FFFFFF&labelColor=017BED&color=017BED'/></a>
+<a href='' target="_blank"><img alt='Power BI' src='https://img.shields.io/badge/PowerBI-100000?style=for-the-badge&logo=powerbi&logoColor=FFFFFF&labelColor=0BD77C&color=0BD77C'/></a>
+<a href='' target="_blank"><img alt='Excel' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF&labelColor=017BED&color=017BED'/></a>
+
 
 
 ### Work experience 👔
