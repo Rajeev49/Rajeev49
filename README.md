@@ -35,6 +35,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev49&layout=compact&theme=dark)
 ![Rajeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeev49&show_icons=true&theme=dark&hide=contribs)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rajeev729?ext=heatmap)
+
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
