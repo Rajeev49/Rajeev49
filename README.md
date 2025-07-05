@@ -6,6 +6,7 @@
 ### Hi there I'm Rajeev Tripathi👋 and I ❤️ Data 
 
 ### 🚀 About Me
+---
 
 ### I am an experienced Data Analyst and Business Intelligence professional with a demonstrated history in the cybersecurity, cloud, and analytics domains. My expertise lies in developing and optimizing data pipelines, dashboards, and analytical models, particularly within enterprise environments. I am currently pursuing my Master of Science in Data Science and Business Analytics at the  [University of Cincinnati](https://www.uc.edu/) 
 ---
