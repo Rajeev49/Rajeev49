@@ -38,6 +38,16 @@ Data modeling and warehousing best practices
 
 Python, SQL, PySpark, and real-world data project architecture
 
+📫 How to reach me:
+
+Email: rajeev.tripathi0207@gmail.com
+
+LinkedIn: linkedin.com/in/rajeev49
+
+GitHub: github.com/Rajeev49
+
+Tableau: public.tableau.com/profile/rajeev.tripathi
+
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 #### Skills 🛠️:
