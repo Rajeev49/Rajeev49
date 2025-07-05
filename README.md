@@ -9,7 +9,37 @@
 #### Socials:
 <a href='https://www.linkedin.com/in/rajeev-tripathi-11bb60199/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
 
-**Field of interests**: Data Analytics, Data Science, Business Intelligence, Marketing Analytics
+🔭 I’m currently working on
+
+Building real-time dashboards for cybersecurity and streaming analytics
+
+Automating data pipelines using Azure Data Factory and PySpark
+
+Developing data-driven solutions to enhance business intelligence and cloud integration
+
+🌱 I’m currently learning
+
+Advanced machine learning techniques and cloud data engineering
+
+Artificial Intelligence (AI) applications in analytics and decision-making
+
+👯 I’m looking to collaborate on
+
+Innovative data analytics and visualization projects
+
+Open-source initiatives around data engineering and BI platforms
+
+🤔 I’m looking for help with
+
+Optimizing large-scale ETL pipelines and performance tuning in cloud environments
+
+💬 Ask me about
+
+Power BI, Azure Data Factory, and building enterprise dashboards
+
+Data modeling and warehousing best practices
+
+Python, SQL, PySpark, and real-world data project architecture
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
