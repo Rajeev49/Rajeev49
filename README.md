@@ -4,13 +4,14 @@
 ---
 
 ### Hi there I'm Rajeev Tripathi👋 and I ❤️ Data 
----
 
 ### 🚀 About Me
----
 
 ### I am an experienced Data Analyst and Business Intelligence professional with a demonstrated history in the cybersecurity, cloud, and analytics domains. My expertise lies in developing and optimizing data pipelines, dashboards, and analytical models, particularly within enterprise environments. I am currently pursuing my Master of Science in Data Science and Business Analytics at the  [University of Cincinnati](https://www.uc.edu/) 
----
+
+**Rajeev49/Rajeev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some things about me:
 
 - 🔭 I’m currently working on  
   * Building real-time dashboards for cybersecurity and streaming analytics  
@@ -38,6 +39,7 @@
   * LinkedIn: [linkedin.com/in/rajeev49](https://www.linkedin.com/in/rajeev49)  
   * GitHub: [github.com/Rajeev49](https://github.com/Rajeev49)  
   * Tableau: [public.tableau.com/profile/rajeev.tripathi](https://public.tableau.com/app/profile/rajeev.tripathi)
+
  ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev49&layout=compact&theme=dark)
