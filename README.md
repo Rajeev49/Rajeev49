@@ -62,10 +62,6 @@
 - [Python for Everybody](https://coursera.org/share/52ebb4853dea03cfbc760dc7d9a581df) @ Coursera
 - [Introduction to Statistics](https://coursera.org/share/6982c3d93ca203bc95e88582a2129a3a) @ Coursera
 
-<!-- Contribution Stats Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajeev49&theme=github_dark" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajeev49&theme=github_dark" width="400"/>
-<!-- Detailed GitHub Stats -->
 
 
 
