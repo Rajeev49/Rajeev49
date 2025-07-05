@@ -49,22 +49,8 @@
 
 
 
-### Work experience 👔
-| Job Position                      | Company            | Project                                      | Work Period                |
-| --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
-| Business Intelligence Analyst     | Cognizant          | Global Security Operations Centre            | 01.08.2023 — Present       |
-| Reporting Analyst                 | Cognizant          | SBI Credit cards- GE (General Electric)      | 01.08.2021 — 01.07.2023    |
 
-### Education 🎓
-- **Master's degree** @ University of Cincinnati    
-GPA: 3.95/4
-  - Relevant Course:   Machine Leanring, Data Warehousing, Visual Analytics, Data Mining, Relational Database, Supply Chain
-- **Bachelor's degree** @ KIET Group of Institutions     
-GPA: 3.5/4
-  - Relevant Course:  Applied Mathematics, Programming in C,  Cloud Computing,Machine Learning, and Statistics.
 
-### Blogs 🗣
-- Will Add Soon!
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
 ### Certifications 📜
