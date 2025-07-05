@@ -68,9 +68,5 @@
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajeev49&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeev49&show_icons=true&theme=dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajeev49&theme=github-dark)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajeev49&theme=github_dark)
-
 
 
