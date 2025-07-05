@@ -66,6 +66,7 @@
 - [Python for Everybody](https://coursera.org/share/52ebb4853dea03cfbc760dc7d9a581df) @ Coursera
 - [Introduction to Statistics](https://coursera.org/share/6982c3d93ca203bc95e88582a2129a3a) @ Coursera
 
+![GitHub Metrics](https://raw.githubusercontent.com/Rajeev49/Rajeev49/main/github-metrics.svg)
 
 
 
