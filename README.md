@@ -6,47 +6,47 @@
 ### 🚀 About Me
 ### I am an experienced Data Analyst and Business Intelligence professional with a demonstrated history in the cybersecurity, cloud, and analytics domains. My expertise lies in developing and optimizing data pipelines, dashboards, and analytical models, particularly within enterprise environments. I am currently pursuing my Master of Science in Data Science and Business Analytics at the  [University of Cincinnati](https://www.uc.edu/) 
 
-🔭 I’m currently working on
+- 🔭 I’m currently working on
 
-Building real-time dashboards for cybersecurity and streaming analytics
+* Building real-time dashboards for cybersecurity and streaming analytics
 
-Automating data pipelines using Azure Data Factory and PySpark
+* Automating data pipelines using Azure Data Factory and PySpark
 
-Developing data-driven solutions to enhance business intelligence and cloud integration
+* Developing data-driven solutions to enhance business intelligence and cloud integration
 
-🌱 I’m currently learning
+- 🌱 I’m currently learning
 
-Advanced machine learning techniques and cloud data engineering
+* Advanced machine learning techniques and cloud data engineering
 
-Artificial Intelligence (AI) applications in analytics and decision-making
+* Artificial Intelligence (AI) applications in analytics and decision-making
 
-👯 I’m looking to collaborate on
+- 👯 I’m looking to collaborate on
 
-Innovative data analytics and visualization projects
+* Innovative data analytics and visualization projects
 
-Open-source initiatives around data engineering and BI platforms
+* Open-source initiatives around data engineering and BI platforms
 
-🤔 I’m looking for help with
+- 🤔 I’m looking for help with
 
-Optimizing large-scale ETL pipelines and performance tuning in cloud environments
+* Optimizing large-scale ETL pipelines and performance tuning in cloud environments
 
-💬 Ask me about
+- 💬 Ask me about
 
-Power BI, Azure Data Factory, and building enterprise dashboards
+* Power BI, Azure Data Factory, and building enterprise dashboards
 
-Data modeling and warehousing best practices
+* Data modeling and warehousing best practices
 
-Python, SQL, PySpark, and real-world data project architecture
+* Python, SQL, PySpark, and real-world data project architecture
 
-📫 How to reach me:
+- 📫 How to reach me:
 
-Email: rajeev.tripathi0207@gmail.com
+* Email: rajeev.tripathi0207@gmail.com
 
-LinkedIn: linkedin.com/in/rajeev49
+* LinkedIn: linkedin.com/in/rajeev49
 
-GitHub: github.com/Rajeev49
+* GitHub: github.com/Rajeev49
 
-Tableau: public.tableau.com/profile/rajeev.tripathi
+* Tableau: public.tableau.com/profile/rajeev.tripathi
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
