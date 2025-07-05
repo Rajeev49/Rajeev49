@@ -11,8 +11,6 @@
 
 **Rajeev49/Rajeev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some things about me:
-
 - 🔭 I’m currently working on  
   * Building real-time dashboards for cybersecurity and streaming analytics  
   * Automating data pipelines using Azure Data Factory and PySpark  
@@ -39,6 +37,8 @@ Here are some things about me:
   * LinkedIn: [linkedin.com/in/rajeev49](https://www.linkedin.com/in/rajeev49)  
   * GitHub: [github.com/Rajeev49](https://github.com/Rajeev49)  
   * Tableau: [public.tableau.com/profile/rajeev.tripathi](https://public.tableau.com/app/profile/rajeev.tripathi)
+ ---
+
 
  ---
 
