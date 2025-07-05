@@ -33,6 +33,7 @@
   * GitHub: [github.com/Rajeev49](https://github.com/Rajeev49)  
   * Tableau: [public.tableau.com/profile/rajeev.tripathi](https://public.tableau.com/app/profile/rajeev.tripathi)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spranay007&layout=compact&themedark) ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=spranay007&show_icons=true&theme=dark&hide=contribs)
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 #### Skills 🛠️:
