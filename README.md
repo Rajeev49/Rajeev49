@@ -66,7 +66,7 @@
 - [Python for Everybody](https://coursera.org/share/52ebb4853dea03cfbc760dc7d9a581df) @ Coursera
 - [Introduction to Statistics](https://coursera.org/share/6982c3d93ca203bc95e88582a2129a3a) @ Coursera
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajeev49&theme=github_dark)
+![snake gif](https://github.com/Rajeev49/Rajeev49/blob/output/github-snake-dark.svg)
 
 
 
